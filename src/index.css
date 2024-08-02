@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+font-face{
+  font-family:'Poppins-Medium';
+  src: url(./Poppins/Poppins-Medium.ttf) format('opentype');
+  font-style: normal;
+  font-display: swap;
+}
+
+font-face{
+  font-family:'Poppins-ExtraBold';
+  src: url(./Poppins/Poppins-ExtraBold.ttf) format('opentype');
+  font-style: normal;
+  font-display: swap;
+}
+
+font-face{
+  font-family:'Poppins-Bold';
+  src: url(./Poppins/Poppins-Bold.ttf) format('opentype');
+  font-style: normal;
+  font-display: swap;
+}
