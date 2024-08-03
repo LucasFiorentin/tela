@@ -1,7 +1,8 @@
-import { Cards } from './components/Cards'
+import { Filter } from './components/Filter'
 
 function App() {
-  return <Cards />
+  return <Filter />
 }
 
 export default App
+
