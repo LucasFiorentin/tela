@@ -32,7 +32,7 @@ export function Cards() {
             <p className="w-[130px] h-[29px] text-[#3A3A3A] font-Poppins-Medium font-bold">
               Rp 2.500.000
             </p>
-            <p className="w-[102px] h-[24px] text-[#B0B0B0] font-Poppins-Medium line-through text-[#B0B0B0]">
+            <p className="w-[102px] h-[24px] font-Poppins-Medium line-through text-[#B0B0B0]">
               Rp 3.500.000
             </p>
           </div>
@@ -57,7 +57,7 @@ export function Cards() {
           </div>
 
           <img
-            className="h-[301px] w-[285px] brightness-50 "
+            className="h-[297px] w-[285px] brightness-50 mt-1 "
             src={img2}
             alt=""
           />
@@ -108,7 +108,7 @@ export function Cards() {
             <p className="w-[130px] h-[29px] text-[#3A3A3A] font-Poppins-Medium font-bold">
               Rp 7.000.000
             </p>
-            <p className="w-[105px] h-[24px] text-[#B0B0B0] font-Poppins-Medium line-through text-[#B0B0B0]">
+            <p className="w-[105px] h-[24px] font-Poppins-Medium line-through text-[#B0B0B0]">
               Rp 14.000.000
             </p>
           </div>
