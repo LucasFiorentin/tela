@@ -9,6 +9,11 @@ export default {
         'Poppins-ExtraBold': ['Poppins-ExtraBold', 'sans-serif'],
         'Poppins-Bold': ['Poppins-Bold', 'sans-serif'],
       },
+      brightness: {
+        70: '70%',
+        120: '120%',
+        'custom-brightness': '30%', // Adiciona um valor personalizado
+      },
     },
   },
   plugins: [],
