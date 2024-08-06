@@ -1,9 +1,13 @@
+
+import { Header } from './components/Header'
 import { Cards } from './components/Cards'
 import { Filter } from './components/Filter'
 import { Cards2 } from './components/Cards2'
 
+
 const Card = new Array(3).fill(null)
 function App() {
+  return <Header />
   return (
     <>
       <Filter />
@@ -17,6 +21,7 @@ function App() {
       </div>
     </>
   )
+
 }
 
 export default App
