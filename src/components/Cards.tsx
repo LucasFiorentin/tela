@@ -9,7 +9,7 @@ export function Cards() {
     <div className="flex gap-x-12 jus">
       <div className="bg-[#F4F5F7] h-[446px] w-[285px]">
         <div>
-          <p className=" flex items-center justify-center relative top-9 left-56 -mt-7 text-[#ffffff] bg-[#E97171] rounded-full w-7 h-7 text-[12px] ">
+          <p className=" flex items-center p-5 justify-center relative top-12 left-56 -mt-10 text-[#ffffff] bg-[#E97171] rounded-full w-7 h-7 text-[12px] ">
             -30%
           </p>
 
@@ -85,7 +85,7 @@ export function Cards() {
       </div>
       <div className="bg-[#F4F5F7] h-[446px] w-[285px]">
         <div>
-          <p className=" flex items-center justify-center relative top-9 left-56 -mt-7 text-[#ffffff] bg-[#E97171] rounded-full w-7 h-7 text-[12px] ">
+          <p className=" flex items-center justify-center relative p-5 top-12 left-56 -mt-10 text-[#ffffff] bg-[#E97171] rounded-full w-7 h-7 text-[12px] ">
             -50%
           </p>
 
@@ -116,7 +116,7 @@ export function Cards() {
       </div>
       <div className="bg-[#F4F5F7] h-[446px] w-[285px]">
         <div>
-          <p className="flex relative top-9 left-56 -mt-7 text-[#ffffff] bg-[#2EC1AC] rounded-full w-7 h-7 text-[10px] items-center justify-center ">
+          <p className="flex relative top-12 left-56 p-5 -mt-10 text-[#ffffff] bg-[#2EC1AC] rounded-full w-7 h-7 text-[10px] items-center justify-center ">
             New
           </p>
 
