@@ -2,6 +2,7 @@ import { Header } from './components/Header'
 import { Cards } from './components/Cards'
 import { Filter } from './components/Filter'
 import { Cards2 } from './components/Cards2'
+import { Buttons } from './components/Buttons'
 
 const Card = new Array(3).fill(null)
 function App() {
@@ -16,6 +17,9 @@ function App() {
         {Card.map(() => (
           <Cards2 />
         ))}
+      </div>
+      <div className="pt-10">
+        <Buttons />
       </div>
     </>
   )
